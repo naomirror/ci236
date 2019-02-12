@@ -2,16 +2,33 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class followPath : MonoBehaviour {
+public class followPath : MonoBehaviour
+{
     float walkspeed = 1f;
-
-	// Use this for initialization
-	void Start () {
-	}
+    public Transform[] waypoints;
+    int currentWaypoint = 0;
+    int targetWaypoint;
+    int nextWaypoint;
+    // Use this for initialization
+    void Start()
+    {
+        transform.position = waypoints[currentWaypoint].position;
+    }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
+        //if (currentWaypoint != targetWaypoint)
+        //{
+            move();
+       // }
+    }
+
+    void move()
+    {
+        print("cur" + currentWaypoint);
+        print("tar" + targetWaypoint);
+        print("nex" + nextWaypoint);
         if (Input.GetMouseButtonDown(0))
         {
             Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -20,6 +37,62 @@ public class followPath : MonoBehaviour {
             if (hit)
             {
                 print(hit.collider.gameObject.name);
+                for (int i = 0; i < waypoints.Length; i++)
+                {
+                    if (waypoints[i].position == hit.collider.gameObject.transform.position)
+                    {
+                        targetWaypoint = i;
+                        break;
+                    }
+                }
+            }
+        }
+        if (targetWaypoint > currentWaypoint)
+        {
+            if (currentWaypoint == nextWaypoint && currentWaypoint != targetWaypoint)
+            {
+                nextWaypoint = currentWaypoint + 1;
+            }
+            if (this.transform.position == waypoints[nextWaypoint].position)
+            {
+                print("node");
+                currentWaypoint = nextWaypoint;
+                nextWaypoint = nextWaypoint + 1;
+            }
+            if (currentWaypoint != targetWaypoint)
+            {
+                transform.position = Vector2.MoveTowards(transform.position,
+                waypoints[nextWaypoint].transform.position,
+                walkspeed * Time.deltaTime);
+            }
+            if (transform.position == waypoints[targetWaypoint].position)
+            {
+                currentWaypoint = targetWaypoint;
+                
+            }
+        }
+
+        else if (targetWaypoint < currentWaypoint)
+        {
+            if (currentWaypoint == nextWaypoint && currentWaypoint != targetWaypoint)
+            {
+                nextWaypoint = currentWaypoint - 1;
+            }
+            if (this.transform.position == waypoints[nextWaypoint].position)
+            {
+                print("node");
+                currentWaypoint = nextWaypoint;
+                nextWaypoint = nextWaypoint - 1;
+            }
+            if (currentWaypoint != targetWaypoint)
+            {
+                transform.position = Vector2.MoveTowards(transform.position,
+                waypoints[nextWaypoint].transform.position,
+                walkspeed * Time.deltaTime);
+            }
+            if (transform.position == waypoints[targetWaypoint].position)
+            {
+                currentWaypoint = targetWaypoint;
 
             }
         }
