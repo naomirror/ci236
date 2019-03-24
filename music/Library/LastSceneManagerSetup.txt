@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/walkmap.unity
+- path: Assets/Scenes/PIANO.unity
   isLoaded: 1
   isActive: 1

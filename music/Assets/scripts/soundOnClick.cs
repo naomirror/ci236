@@ -11,12 +11,12 @@ public class soundOnClick : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
 	}
 
-    private void OnMouseDown()
+    public void playSelf()
     {
         self.Play();
         self.SetScheduledEndTime(AudioSettings.dspTime + 1.50f);
+
     }
 }
