@@ -23,8 +23,12 @@ MonoBehaviour:
   m_RootView: {fileID: 6}
 =======
   m_RootView: {fileID: 8}
+<<<<<<< HEAD
 >>>>>>> origin/katysbranchyay
   m_MinSize: {x: 950, y: 542}
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -74,7 +78,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 192}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 95
+  controlID: 69
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -105,7 +109,7 @@ MonoBehaviour:
   m_MaxSize: {x: 14004, y: 14042}
 >>>>>>> origin/katysbranchyay
   vertical: 0
-  controlID: 32
+  controlID: 68
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,8 +255,12 @@ MonoBehaviour:
 =======
     width: 1707
     height: 878
+<<<<<<< HEAD
 >>>>>>> origin/katysbranchyay
   m_MinSize: {x: 950, y: 542}
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &9
 MonoBehaviour:
@@ -324,7 +332,7 @@ MonoBehaviour:
 >>>>>>> origin/katysbranchyay
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 33
+  controlID: 94
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -355,7 +363,7 @@ MonoBehaviour:
   m_MaxSize: {x: 8006, y: 4021}
 >>>>>>> origin/katysbranchyay
   vertical: 0
-  controlID: 34
+  controlID: 95
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -396,7 +404,7 @@ MonoBehaviour:
   - {fileID: 17}
 >>>>>>> origin/katysbranchyay
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -496,7 +504,7 @@ MonoBehaviour:
       splitSize: 6
       xOffset: 0
     m_HorizontalSplitter:
-      ID: 101
+      ID: 75
       splitterInitialOffset: 0
       currentActiveSplitter: -1
       realSizes: a00000004a010000
@@ -728,6 +736,7 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 9e290000
     m_LastClickedID: 10654
     m_ExpandedIDs: 000000009229000000ca9a3bffffff7f
@@ -736,6 +745,11 @@ MonoBehaviour:
     m_LastClickedID: 10842
     m_ExpandedIDs: 000000005a2a00003c2e000000ca9a3b
 >>>>>>> origin/katysbranchyay
+=======
+    m_SelectedIDs: 622c0000
+    m_LastClickedID: 11362
+    m_ExpandedIDs: 00000000622c00007630000000ca9a3b
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -763,7 +777,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005a2a00003c2e0000
+    m_ExpandedIDs: 00000000622c000076300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -791,10 +805,14 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
 =======
     m_HadKeyboardFocusLastEvent: 0
+=======
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
     m_ExpandedInstanceIDs: c6230000c63b0000
 >>>>>>> origin/katysbranchyay
     m_RenameOverlay:
@@ -905,10 +923,14 @@ MonoBehaviour:
     m_SelectedIDs: 22bc0000
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 2af8eaff04faeaffbabff0ffbcbff0ffc4bff0ffc8bff0ffcabff0ffeacff0ff74d1f0ff9efbffff000000007a2a0000982a0000fa2a0000
 =======
     m_ExpandedIDs: e6fbffff00000000
 >>>>>>> origin/katysbranchyay
+=======
+    m_ExpandedIDs: 42f4ffffa4f7ffff00000000
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1120,7 +1142,7 @@ MonoBehaviour:
 =======
       width: 740
       height: 362
-    m_Scale: {x: 1, y: 1}
+    m_Scale: {x: 2, y: 2}
     m_Translation: {x: 370, y: 181}
 >>>>>>> origin/katysbranchyay
     m_MarginLeft: 0
@@ -1129,6 +1151,7 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -295.5
       y: -134.5
@@ -1140,10 +1163,17 @@ MonoBehaviour:
       width: 740
       height: 362
 >>>>>>> origin/katysbranchyay
+=======
+      x: -185
+      y: -90.5
+      width: 370
+      height: 181
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LastWindowPixelSize: {x: 591, y: 286}
   m_ClearInEditMode: 1
@@ -1152,6 +1182,9 @@ MonoBehaviour:
 --- !u!114 &20
 =======
   m_LastWindowPixelSize: {x: 740, y: 379}
+=======
+  m_LastWindowPixelSize: {x: 2220, y: 1137}
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100

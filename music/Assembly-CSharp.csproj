@@ -66,7 +66,11 @@
 =======
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\OptionsMenu.cs" />
+<<<<<<< HEAD
 >>>>>>> origin/katysbranchyay
+=======
+    <Compile Include="Assets\scripts\accuracy.cs" />
+>>>>>>> 59f1f8ecb8eaa030aef0dee2bf9f55177130ccff
     <Compile Include="Assets\scripts\followPath.cs" />
     <Compile Include="Assets\scripts\notes.cs" />
     <Compile Include="Assets\scripts\soundOnClick.cs" />
