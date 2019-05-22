@@ -31,7 +31,6 @@ public class chordProgression : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		arrangementSelector (sel);
-		setBounds ();
 		th = GameObject.Find("TouchHandler");
 		accuracyText = GameObject.Find ("Accuracy").GetComponent<Text>();
 		level = accuracyText.GetComponent<accuracy> ();
@@ -41,9 +40,6 @@ public class chordProgression : MonoBehaviour {
 	bool sound = false;
 	// Update is called once per frame
 	void Update () {
-		Debug.Log (level.calculatedAccuracy());
-		Debug.Log (level.notesHit);
-		Debug.Log (level.notesMissed);
 		Debug.Log (th.GetComponent<notes> ().cmajDone);
 		t += Time.deltaTime / 16.0f;
 		transform.position = Vector3.Lerp (startPos.position, endPos.position, t);
@@ -66,58 +62,57 @@ public class chordProgression : MonoBehaviour {
 			t = 0;
 			transform.position = startPos.position;
 		}
+		if (c1 == false && (int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (cBounds [2]).x) {
+			c1 = true;
+			Debug.Log("working");
+			if (th.GetComponent<notes> ().cmajDone) {
+				Debug.Log("working");
+				level.notesHit += 1;
+			} 
+				level.notesTotal += 1;
+			accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
+		}
 		//changing from int to float with intent to test later
 		if (((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (cBounds [0]).x &&
 		    (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (cBounds [1]).x)) {
 			th.GetComponent<notes> ().lastChord = "CMaj";
 		}
-		if ((int)transform.position.x > (int)Camera.main.ScreenToWorldPoint (cBounds [1]).x && !c1) {
-			c1 = true;
-			if (th.GetComponent<notes> ().cmajDone) {
-				Debug.Log("working");
-				level.notesHit += 1;
-			} else {
-				level.notesMissed += 1;
-			}
-			accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
-		}
 			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (gBounds [0]).x &&
 			   (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (gBounds [1]).x) {
 				th.GetComponent<notes> ().lastChord = "GMaj";
 			}
-			if ((int)transform.position.x > (int)Camera.main.ScreenToWorldPoint (gBounds [1]).x && !c2) {
+			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (gBounds [2]).x && !c2) {
 				c2 = true;
 			if (th.GetComponent<notes> ().gmajDone) {
 					level.notesHit += 1;
-				} else {
-					level.notesMissed += 1;
 				}
+					level.notesTotal += 1;
+				
 				accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
 			}
 			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (fBounds [0]).x &&
 			   (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (fBounds [1]).x) {
 				th.GetComponent<notes> ().lastChord = "FMaj";
 			}
-			if ((int)transform.position.x > (int)Camera.main.ScreenToWorldPoint (fBounds [1]).x && !c3) {
+			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (fBounds [2]).x && !c3) {
 				c3 = true;
 				if (th.GetComponent<notes> ().fmajDone) {
 					level.notesHit += 1;
-				} else {
-					level.notesMissed += 1;
 				}
+					level.notesTotal += 1;
+				
 				accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
 			}
 			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (aBounds [0]).x &&
 			   (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (aBounds [1]).x) {
 				th.GetComponent<notes> ().lastChord = "AMin";
 			}
-			if ((int)transform.position.x > (int)Camera.main.ScreenToWorldPoint (aBounds [1]).x && !c4) {
+			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (aBounds [2]).x && !c4) {
 				c4 = true;
 				if (th.GetComponent<notes> ().aminDone) {
 					level.notesHit += 1;
-				} else {
-					level.notesMissed += 1;
 				}
+					level.notesTotal += 1;
 				accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
 			}
 			//redundant I think 
