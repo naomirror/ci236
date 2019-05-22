@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/ChordProg.unity
-=======
-- path: Assets/Scenes/Menu.unity
->>>>>>> origin/katysbranchyay
   isLoaded: 1
   isActive: 1
