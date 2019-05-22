@@ -13,11 +13,7 @@ OcclusionCullingSettings:
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   serializedVersion: 8
-=======
-  serializedVersion: 9
->>>>>>> origin/katysbranchyay
   m_Fog: 0
   m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_FogMode: 3
@@ -42,12 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.37311918, g: 0.3807398, b: 0.35872716, a: 1}
-=======
-  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.35872698, a: 1}
-  m_UseRadianceAmbientProbe: 0
->>>>>>> origin/katysbranchyay
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -63,18 +54,11 @@ LightmapSettings:
     m_EnableBakedLightmaps: 1
     m_EnableRealtimeLightmaps: 1
   m_LightmapEditorSettings:
-<<<<<<< HEAD
     serializedVersion: 9
     m_Resolution: 2
     m_BakeResolution: 40
     m_TextureWidth: 1024
     m_TextureHeight: 1024
-=======
-    serializedVersion: 10
-    m_Resolution: 2
-    m_BakeResolution: 40
-    m_AtlasSize: 1024
->>>>>>> origin/katysbranchyay
     m_AO: 0
     m_AOMaxDistance: 1
     m_CompAOExponent: 1
@@ -132,15 +116,9 @@ NavMeshSettings:
 --- !u!1 &6576426
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 6576431}
   - component: {fileID: 6576430}
@@ -157,21 +135,13 @@ GameObject:
 --- !u!82 &6576427
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 6576426}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 1eb826dd442de2444a61ea456e718b80, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: bad76ef322b5e834c952f26821dc619a, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -191,112 +161,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &6576428
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 6576426}
   m_Enabled: 1
@@ -307,11 +226,7 @@ MonoBehaviour:
 --- !u!60 &6576429
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 6576426}
   m_Enabled: 1
@@ -341,11 +256,7 @@ PolygonCollider2D:
 --- !u!212 &6576430
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 6576426}
   m_Enabled: 1
@@ -355,10 +266,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -390,7 +297,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &6576431
 Transform:
   m_ObjectHideFlags: 0
@@ -400,18 +306,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.39004, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &6576431
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 6576426}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.43488002, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
@@ -419,15 +313,9 @@ Transform:
 --- !u!1 &25712173
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 25712178}
   - component: {fileID: 25712177}
@@ -444,21 +332,13 @@ GameObject:
 --- !u!82 &25712174
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 25712173}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: c6e437ce599e5d14fb0ea0f95926bad1, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 419195199a77c8d4d8403b5a40deb332, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -468,11 +348,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-<<<<<<< HEAD
   MinDistance: 0.31770337
-=======
-  MinDistance: 0.9755001
->>>>>>> origin/katysbranchyay
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -482,112 +358,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &25712175
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 25712173}
   m_Enabled: 1
@@ -598,11 +423,7 @@ MonoBehaviour:
 --- !u!60 &25712176
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 25712173}
   m_Enabled: 1
@@ -632,11 +453,7 @@ PolygonCollider2D:
 --- !u!212 &25712177
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 25712173}
   m_Enabled: 1
@@ -646,10 +463,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -681,7 +494,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &25712178
 Transform:
   m_ObjectHideFlags: 0
@@ -691,23 +503,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.922, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &25712178
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 25712173}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.535641, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!224 &52258690 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224388020035694346, guid: 362a92f29536500478ea84a1d5c3ab63,
@@ -725,87 +524,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
---- !u!224 &52258690
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224388020035694346, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  m_GameObject: {fileID: 1792359971}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5, y: 3, z: 1}
-  m_Children:
-  - {fileID: 100360466}
-  m_Father: {fileID: 2009216294}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -256, y: 228}
-  m_SizeDelta: {x: 30, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &52258691
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114951642377895854, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  m_GameObject: {fileID: 1792359971}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 0.1102941, b: 0.1102941, a: 1}
-    m_HighlightedColor: {r: 0.07450981, g: 0.5686275, b: 0.9176471, a: 1}
-    m_PressedColor: {r: 1, g: 1, b: 1, a: 1}
-    m_DisabledColor: {r: 0, g: 1, b: 0.13103437, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 1792359972}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 63074982}
-        m_MethodName: playChord
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: CMaj
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!1 &63074981
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 63074983}
   - component: {fileID: 63074982}
@@ -819,11 +537,7 @@ GameObject:
 --- !u!114 &63074982
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 63074981}
   m_Enabled: 1
@@ -844,7 +558,6 @@ MonoBehaviour:
   Bb: {fileID: 2056882489}
   B: {fileID: 6576427}
   Audio: {fileID: 232060720}
-<<<<<<< HEAD
   lastChord: 
   fsminDone: 0
   bmajDone: 0
@@ -864,12 +577,6 @@ MonoBehaviour:
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
-=======
---- !u!4 &63074983
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 63074981}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -883,15 +590,9 @@ Transform:
 --- !u!1 &66554147
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 66554152}
   - component: {fileID: 66554151}
@@ -908,21 +609,13 @@ GameObject:
 --- !u!82 &66554148
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 66554147}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: b4d550c46b1369249beef282d9c7a6d3, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 35a3290b91dd9ac47ab3bd917f4def4b, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -942,112 +635,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &66554149
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 66554147}
   m_Enabled: 1
@@ -1058,11 +700,7 @@ MonoBehaviour:
 --- !u!61 &66554150
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 66554147}
   m_Enabled: 1
@@ -1087,11 +725,7 @@ BoxCollider2D:
 --- !u!212 &66554151
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 66554147}
   m_Enabled: 1
@@ -1101,10 +735,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -1136,7 +766,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &66554152
 Transform:
   m_ObjectHideFlags: 0
@@ -1146,23 +775,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6.7979, y: -1.4, z: 0}
   m_LocalScale: {x: 1.770115, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &66554152
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 66554147}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.26994, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!224 &74430909 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224791353765712810, guid: 8ddc4cced8333f34fb6848fe13224450,
@@ -1180,166 +796,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
---- !u!224 &74430909
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224791353765712810, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  m_GameObject: {fileID: 641377736}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5, y: 3, z: 1}
-  m_Children:
-  - {fileID: 834619502}
-  m_Father: {fileID: 2009216294}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 228}
-  m_SizeDelta: {x: 30, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &74430910
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114728877233585536, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  m_GameObject: {fileID: 641377736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 0.1102941, b: 0.1102941, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 641377737}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 63074982}
-        m_MethodName: playChord
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: FMaj
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!1 &100360465
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1826546512472324, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 100360466}
-  - component: {fileID: 100360468}
-  - component: {fileID: 100360467}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &100360466
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224403110192360496, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  m_GameObject: {fileID: 100360465}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.07, y: 0.1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 52258690}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000009536743, y: 0}
-  m_SizeDelta: {x: -0.0000076294, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &100360467
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114958663116430160, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  m_GameObject: {fileID: 100360465}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 100
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 100
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: C minor
---- !u!222 &100360468
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222610633957619752, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  m_GameObject: {fileID: 100360465}
-  m_CullTransparentMesh: 0
---- !u!1 &204851911
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 204851916}
   - component: {fileID: 204851915}
@@ -1356,11 +812,7 @@ GameObject:
 --- !u!114 &204851912
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 204851911}
   m_Enabled: 1
@@ -1371,11 +823,7 @@ MonoBehaviour:
 --- !u!60 &204851913
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 204851911}
   m_Enabled: 1
@@ -1405,21 +853,13 @@ PolygonCollider2D:
 --- !u!82 &204851914
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 204851911}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: c11d115cdadd1d04caffc3a8b16bdab4, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 512a090ec50abc344bd76075d8b2cb38, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1439,112 +879,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &204851915
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 204851911}
   m_Enabled: 1
@@ -1554,10 +943,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -1589,7 +974,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &204851916
 Transform:
   m_ObjectHideFlags: 0
@@ -1599,38 +983,18 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.7992, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &204851916
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 204851911}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.03366, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &232060720 stripped
 AudioSource:
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 82260234461368124, guid: 624f7916ea3331a4a85c501a0c5ab866,
-=======
-  m_CorrespondingSourceObject: {fileID: 82260234461368124, guid: 624f7916ea3331a4a85c501a0c5ab866,
->>>>>>> origin/katysbranchyay
     type: 2}
   m_PrefabInternal: {fileID: 232429857}
 --- !u!4 &232060721 stripped
 Transform:
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 4477092550491536, guid: 624f7916ea3331a4a85c501a0c5ab866,
-=======
-  m_CorrespondingSourceObject: {fileID: 4477092550491536, guid: 624f7916ea3331a4a85c501a0c5ab866,
->>>>>>> origin/katysbranchyay
     type: 2}
   m_PrefabInternal: {fileID: 232429857}
 --- !u!1001 &232429857
@@ -1673,7 +1037,6 @@ Prefab:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-<<<<<<< HEAD
   m_ParentPrefab: {fileID: 100100000, guid: 624f7916ea3331a4a85c501a0c5ab866, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &276928124
@@ -1682,16 +1045,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_SourcePrefab: {fileID: 100100000, guid: 624f7916ea3331a4a85c501a0c5ab866, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1 &276928124
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 276928129}
   - component: {fileID: 276928128}
@@ -1708,11 +1061,7 @@ GameObject:
 --- !u!114 &276928125
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 276928124}
   m_Enabled: 1
@@ -1723,11 +1072,7 @@ MonoBehaviour:
 --- !u!60 &276928126
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 276928124}
   m_Enabled: 1
@@ -1759,21 +1104,13 @@ PolygonCollider2D:
 --- !u!82 &276928127
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 276928124}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 6e7249759e1277d46a7872797db763d1, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: fa3a8359e7b879e428ec8890e8f726fc, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1793,112 +1130,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &276928128
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 276928124}
   m_Enabled: 1
@@ -1908,10 +1194,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -1943,7 +1225,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &276928129
 Transform:
   m_ObjectHideFlags: 0
@@ -1956,34 +1237,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 21
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &276928129
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 276928124}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.06716, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 23
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &330340010
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 330340015}
   - component: {fileID: 330340014}
@@ -2000,21 +1260,13 @@ GameObject:
 --- !u!82 &330340011
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330340010}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 867bb5da9c689ca41a91d44f824c7e50, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 3dfae765d4357884a854ff35c1b559ab, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2034,112 +1286,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &330340012
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330340010}
   m_Enabled: 1
@@ -2150,11 +1351,7 @@ MonoBehaviour:
 --- !u!61 &330340013
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330340010}
   m_Enabled: 1
@@ -2179,11 +1376,7 @@ BoxCollider2D:
 --- !u!212 &330340014
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330340010}
   m_Enabled: 1
@@ -2193,10 +1386,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -2228,7 +1417,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &330340015
 Transform:
   m_ObjectHideFlags: 0
@@ -2238,18 +1426,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.9774, y: -1.4, z: 0}
   m_LocalScale: {x: 1.770115, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &330340015
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 330340010}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.26144, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
@@ -2257,15 +1433,9 @@ Transform:
 --- !u!1 &340921526
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 340921531}
   - component: {fileID: 340921530}
@@ -2282,21 +1452,13 @@ GameObject:
 --- !u!82 &340921527
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 340921526}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: bb80bb2e00f8cc247b5d2b71282cdc7d, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: e8d5276844a5ec645b4e6757ce514e1d, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2316,112 +1478,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &340921528
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 340921526}
   m_Enabled: 1
@@ -2432,11 +1543,7 @@ MonoBehaviour:
 --- !u!60 &340921529
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 340921526}
   m_Enabled: 1
@@ -2468,11 +1575,7 @@ PolygonCollider2D:
 --- !u!212 &340921530
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 340921526}
   m_Enabled: 1
@@ -2482,10 +1585,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -2517,7 +1616,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &340921531
 Transform:
   m_ObjectHideFlags: 0
@@ -2527,18 +1625,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -7.5059, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &340921531
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 340921526}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.025141, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -2546,15 +1632,9 @@ Transform:
 --- !u!1 &366658116
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 366658121}
   - component: {fileID: 366658120}
@@ -2571,21 +1651,13 @@ GameObject:
 --- !u!82 &366658117
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 366658116}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 676b63e233c584541bbcfaf8c67644dc, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: eed5f29f200cf124896247c43f5e7465, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2605,112 +1677,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &366658118
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 366658116}
   m_Enabled: 1
@@ -2721,11 +1742,7 @@ MonoBehaviour:
 --- !u!60 &366658119
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 366658116}
   m_Enabled: 1
@@ -2755,11 +1772,7 @@ PolygonCollider2D:
 --- !u!212 &366658120
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 366658116}
   m_Enabled: 1
@@ -2769,10 +1782,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -2804,7 +1813,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &366658121
 Transform:
   m_ObjectHideFlags: 0
@@ -2814,18 +1822,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.6502, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &366658121
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 366658116}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.97904, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -2833,15 +1829,9 @@ Transform:
 --- !u!1 &393648714
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 393648719}
   - component: {fileID: 393648718}
@@ -2858,21 +1848,13 @@ GameObject:
 --- !u!82 &393648715
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 393648714}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: e0a9417f93fa4aa468f76b6adc739ee6, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 1638320578ebe7a4483fd818ad52dabd, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2892,112 +1874,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &393648716
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 393648714}
   m_Enabled: 1
@@ -3008,11 +1939,7 @@ MonoBehaviour:
 --- !u!60 &393648717
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 393648714}
   m_Enabled: 1
@@ -3045,11 +1972,7 @@ PolygonCollider2D:
 --- !u!212 &393648718
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 393648714}
   m_Enabled: 1
@@ -3059,10 +1982,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -3094,7 +2013,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &393648719
 Transform:
   m_ObjectHideFlags: 0
@@ -3104,23 +2022,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.818, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &393648719
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 393648714}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.95804, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!224 &589699413 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224121603199156962, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
@@ -3138,300 +2043,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
---- !u!1 &502780588
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1137878173026074, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 502780589}
-  - component: {fileID: 502780591}
-  - component: {fileID: 502780590}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &502780589
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224378590906677436, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  m_GameObject: {fileID: 502780588}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.07, y: 0.12, z: 1}
-  m_Children: []
-  m_Father: {fileID: 589699413}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000009536743, y: 0}
-  m_SizeDelta: {x: -0.0000076294, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &502780590
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114538495628804808, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  m_GameObject: {fileID: 502780588}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 100
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 101
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: G Major
---- !u!222 &502780591
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222107120487188894, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  m_GameObject: {fileID: 502780588}
-  m_CullTransparentMesh: 0
---- !u!1 &568520500
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1871623164530998, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 568520501}
-  - component: {fileID: 568520503}
-  - component: {fileID: 568520502}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &568520501
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224724251625798768, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  m_GameObject: {fileID: 568520500}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.07, y: 0.12, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1263683046}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000009536743, y: 0}
-  m_SizeDelta: {x: -0.0000076294, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &568520502
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114381629893818026, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  m_GameObject: {fileID: 568520500}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 100
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 0
-    m_MaxSize: 100
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: A Minor
---- !u!222 &568520503
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222875919707421788, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  m_GameObject: {fileID: 568520500}
-  m_CullTransparentMesh: 0
---- !u!224 &589699413
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224121603199156962, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  m_GameObject: {fileID: 1131775635}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5, y: 3, z: 1}
-  m_Children:
-  - {fileID: 502780589}
-  m_Father: {fileID: 2009216294}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 256, y: 228}
-  m_SizeDelta: {x: 30, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &589699414
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114026129622655502, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  m_GameObject: {fileID: 1131775635}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 0.1102941, b: 0.1102941, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 1131775636}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 63074982}
-        m_MethodName: playChord
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: GMaj
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!1 &641377736
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1329686454908136, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 74430909}
-  - component: {fileID: 641377738}
-  - component: {fileID: 641377737}
-  - component: {fileID: 74430910}
-  m_Layer: 5
-  m_Name: FMaj
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &641377737
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114877208150944144, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  m_GameObject: {fileID: 641377736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &641377738
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222999092275777378, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  m_GameObject: {fileID: 641377736}
-  m_CullTransparentMesh: 0
---- !u!1 &687322902
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 687322907}
   - component: {fileID: 687322906}
@@ -3448,21 +2059,13 @@ GameObject:
 --- !u!82 &687322903
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 687322902}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 315767cadebeee84e922b75167bd3925, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: fa3a8359e7b879e428ec8890e8f726fc, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -3482,112 +2085,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &687322904
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 687322902}
   m_Enabled: 1
@@ -3598,11 +2150,7 @@ MonoBehaviour:
 --- !u!60 &687322905
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 687322902}
   m_Enabled: 1
@@ -3634,11 +2182,7 @@ PolygonCollider2D:
 --- !u!212 &687322906
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 687322902}
   m_Enabled: 1
@@ -3648,10 +2192,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -3683,7 +2223,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &687322907
 Transform:
   m_ObjectHideFlags: 0
@@ -3693,116 +2232,16 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.2341, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &687322907
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 687322902}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.46854, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &845705160
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
---- !u!1 &834619501
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1048732870963586, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 834619502}
-  - component: {fileID: 834619504}
-  - component: {fileID: 834619503}
-  m_Layer: 5
-  m_Name: Text
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &834619502
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224756225578178852, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  m_GameObject: {fileID: 834619501}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.07, y: 0.1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 74430909}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000009536743, y: 0}
-  m_SizeDelta: {x: -0.0000076294, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &834619503
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114221977800149544, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  m_GameObject: {fileID: 834619501}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 100
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 1
-    m_MaxSize: 100
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 1
-    m_VerticalOverflow: 1
-    m_LineSpacing: 1
-  m_Text: F Major
---- !u!222 &834619504
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222094618663401408, guid: 8ddc4cced8333f34fb6848fe13224450,
-    type: 2}
-  m_PrefabInternal: {fileID: 2063251994}
-  m_GameObject: {fileID: 834619501}
-  m_CullTransparentMesh: 0
---- !u!1 &845705160
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 845705165}
   - component: {fileID: 845705164}
@@ -3819,11 +2258,7 @@ GameObject:
 --- !u!114 &845705161
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 845705160}
   m_Enabled: 1
@@ -3834,11 +2269,7 @@ MonoBehaviour:
 --- !u!61 &845705162
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 845705160}
   m_Enabled: 1
@@ -3863,21 +2294,13 @@ BoxCollider2D:
 --- !u!82 &845705163
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 845705160}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: a981a5aed8648de4ca6eb1af9268859d, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 0522c1fecdb86ce438109faf5167b3e2, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -3897,112 +2320,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &845705164
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 845705160}
   m_Enabled: 1
@@ -4012,10 +2384,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -4047,7 +2415,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &845705165
 Transform:
   m_ObjectHideFlags: 0
@@ -4060,34 +2427,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 25
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &845705165
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 845705160}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.78466, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 27
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &884566014
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 884566017}
   - component: {fileID: 884566016}
@@ -4102,11 +2448,7 @@ GameObject:
 --- !u!114 &884566015
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 884566014}
   m_Enabled: 1
@@ -4124,11 +2466,7 @@ MonoBehaviour:
 --- !u!114 &884566016
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 884566014}
   m_Enabled: 1
@@ -4142,11 +2480,7 @@ MonoBehaviour:
 --- !u!4 &884566017
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 884566014}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -4154,24 +2488,14 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_RootOrder: 30
-=======
-  m_RootOrder: 21
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &890306604
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 890306609}
   - component: {fileID: 890306608}
@@ -4188,21 +2512,13 @@ GameObject:
 --- !u!82 &890306605
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 890306604}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 6e7528df66325d84d85dda68afbe3d74, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 5ba4cfc7e1bbf9b46992ecf87b659103, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -4222,112 +2538,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &890306606
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 890306604}
   m_Enabled: 1
@@ -4338,11 +2603,7 @@ MonoBehaviour:
 --- !u!61 &890306607
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 890306604}
   m_Enabled: 1
@@ -4367,11 +2628,7 @@ BoxCollider2D:
 --- !u!212 &890306608
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 890306604}
   m_Enabled: 1
@@ -4381,10 +2638,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -4416,7 +2669,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &890306609
 Transform:
   m_ObjectHideFlags: 0
@@ -4426,18 +2678,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.2496, y: -1.4, z: 0}
   m_LocalScale: {x: 1.770115, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &890306609
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 890306604}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.81844, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
@@ -4492,11 +2732,7 @@ Prefab:
     - target: {fileID: 224657896153130508, guid: 146e438215f735244a2b26f82b1b146f,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-<<<<<<< HEAD
       value: 684.54
-=======
-      value: 512
->>>>>>> origin/katysbranchyay
       objectReference: {fileID: 0}
     - target: {fileID: 224657896153130508, guid: 146e438215f735244a2b26f82b1b146f,
         type: 2}
@@ -4583,7 +2819,6 @@ Prefab:
       propertyPath: m_FontData.m_VerticalOverflow
       value: 1
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 114381629893818026, guid: 146e438215f735244a2b26f82b1b146f,
         type: 2}
       propertyPath: m_Text
@@ -4603,22 +2838,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-    - target: {fileID: 224724251625798768, guid: 146e438215f735244a2b26f82b1b146f,
-        type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: -0.000009536743
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 146e438215f735244a2b26f82b1b146f, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1 &928343260
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 928343265}
   - component: {fileID: 928343264}
@@ -4635,21 +2854,13 @@ GameObject:
 --- !u!82 &928343261
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 928343260}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: e975567f8dc586f41a3e675df3bddb64, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 512a090ec50abc344bd76075d8b2cb38, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -4669,112 +2880,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &928343262
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 928343260}
   m_Enabled: 1
@@ -4785,11 +2945,7 @@ MonoBehaviour:
 --- !u!60 &928343263
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 928343260}
   m_Enabled: 1
@@ -4819,11 +2975,7 @@ PolygonCollider2D:
 --- !u!212 &928343264
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 928343260}
   m_Enabled: 1
@@ -4833,10 +2985,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -4868,7 +3016,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &928343265
 Transform:
   m_ObjectHideFlags: 0
@@ -4878,18 +3025,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6.078, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &928343265
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 928343260}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.50204, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -4897,15 +3032,9 @@ Transform:
 --- !u!1 &942421522
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 942421527}
   - component: {fileID: 942421526}
@@ -4922,11 +3051,7 @@ GameObject:
 --- !u!114 &942421523
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 942421522}
   m_Enabled: 1
@@ -4937,11 +3062,7 @@ MonoBehaviour:
 --- !u!61 &942421524
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 942421522}
   m_Enabled: 1
@@ -4966,21 +3087,13 @@ BoxCollider2D:
 --- !u!82 &942421525
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 942421522}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 7fc530aa2c648164994155c0454f839c, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 35a3290b91dd9ac47ab3bd917f4def4b, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -5000,112 +3113,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &942421526
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 942421522}
   m_Enabled: 1
@@ -5115,10 +3177,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -5150,7 +3208,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &942421527
 Transform:
   m_ObjectHideFlags: 0
@@ -5163,34 +3220,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 23
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &942421527
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 942421522}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.2657602, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 25
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &950447600
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 950447601}
   m_Layer: 0
@@ -5203,11 +3239,7 @@ GameObject:
 --- !u!4 &950447601
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 950447600}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -5215,24 +3247,14 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_RootOrder: 28
-=======
-  m_RootOrder: 29
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1115913402
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1115913405}
   - component: {fileID: 1115913404}
@@ -5247,35 +3269,20 @@ GameObject:
 --- !u!81 &1115913403
 AudioListener:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1115913402}
   m_Enabled: 1
 --- !u!20 &1115913404
 Camera:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1115913402}
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-<<<<<<< HEAD
-=======
-  m_projectionMatrixMode: 1
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
->>>>>>> origin/katysbranchyay
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -5305,11 +3312,7 @@ Camera:
 --- !u!4 &1115913405
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1115913402}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -5319,7 +3322,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!224 &1263683046 stripped
 RectTransform:
   m_PrefabParentObject: {fileID: 224657896153130508, guid: 146e438215f735244a2b26f82b1b146f,
@@ -5337,142 +3339,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
---- !u!1 &1131775635
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1417882303420384, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 589699413}
-  - component: {fileID: 1131775637}
-  - component: {fileID: 1131775636}
-  - component: {fileID: 589699414}
-  m_Layer: 5
-  m_Name: GMaj
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1131775636
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114385292223625630, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  m_GameObject: {fileID: 1131775635}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &1131775637
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222372166055249342, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-    type: 2}
-  m_PrefabInternal: {fileID: 2021594435}
-  m_GameObject: {fileID: 1131775635}
-  m_CullTransparentMesh: 0
---- !u!224 &1263683046
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 224657896153130508, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  m_GameObject: {fileID: 1511629163}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5, y: 3, z: 1}
-  m_Children:
-  - {fileID: 568520501}
-  m_Father: {fileID: 2009216294}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 512, y: 228}
-  m_SizeDelta: {x: 30, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1263683047
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114392642880951824, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  m_GameObject: {fileID: 1511629163}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Navigation:
-    m_Mode: 3
-    m_SelectOnUp: {fileID: 0}
-    m_SelectOnDown: {fileID: 0}
-    m_SelectOnLeft: {fileID: 0}
-    m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
-  m_Colors:
-    m_NormalColor: {r: 1, g: 0.1102941, b: 0.1102941, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
-  m_AnimationTriggers:
-    m_NormalTrigger: Normal
-    m_HighlightedTrigger: Highlighted
-    m_PressedTrigger: Pressed
-    m_DisabledTrigger: Disabled
-  m_Interactable: 1
-  m_TargetGraphic: {fileID: 1511629164}
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 63074982}
-        m_MethodName: playChord
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: AMin
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!1 &1339714890
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1339714893}
   - component: {fileID: 1339714892}
@@ -5487,11 +3353,7 @@ GameObject:
 --- !u!114 &1339714891
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1339714890}
   m_Enabled: 1
@@ -5505,60 +3367,10 @@ MonoBehaviour:
   Fmaj: {fileID: 74430910}
   Gmaj: {fileID: 589699414}
   AMin: {fileID: 1263683047}
-<<<<<<< HEAD
 --- !u!212 &1339714892
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
-=======
-  th: {fileID: 0}
-  one:
-  - CMaj
-  - GMaj
-  - AMin
-  - FMaj
-  two:
-  - GMaj
-  - AMin
-  - FMaj
-  - CMaj
-  three:
-  - AMin
-  - FMaj
-  - CMaj
-  - GMaj
-  four:
-  - FMaj
-  - CMaj
-  - GMaj
-  - AMin
-  t: 0
-  cBounds:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  gBounds:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  fBounds:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  aBounds:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  sound: 0
---- !u!212 &1339714892
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1339714890}
   m_Enabled: 1
@@ -5568,10 +3380,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -5601,22 +3409,12 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< HEAD
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
 --- !u!4 &1339714893
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_WasSpriteAssigned: 0
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1339714893
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1339714890}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -5624,7 +3422,6 @@ Transform:
   m_LocalScale: {x: 0.2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1488730561
@@ -5640,30 +3437,11 @@ GameObject:
   - component: {fileID: 1488730563}
   m_Layer: 5
   m_Name: Accuracy
-=======
-  m_RootOrder: 28
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1511629163
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1631630689803804, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1263683046}
-  - component: {fileID: 1511629165}
-  - component: {fileID: 1511629164}
-  - component: {fileID: 1263683047}
-  m_Layer: 5
-  m_Name: AMin
->>>>>>> origin/katysbranchyay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!224 &1488730562
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5709,29 +3487,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-=======
---- !u!114 &1511629164
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114081542580661760, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  m_GameObject: {fileID: 1511629163}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
->>>>>>> origin/katysbranchyay
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-<<<<<<< HEAD
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 100
@@ -5758,30 +3519,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &1511629165
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222260608546736748, guid: 146e438215f735244a2b26f82b1b146f,
-    type: 2}
-  m_PrefabInternal: {fileID: 895420209}
-  m_GameObject: {fileID: 1511629163}
-  m_CullTransparentMesh: 0
---- !u!1 &1559883437
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1559883442}
   - component: {fileID: 1559883441}
@@ -5798,11 +3535,7 @@ GameObject:
 --- !u!114 &1559883438
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1559883437}
   m_Enabled: 1
@@ -5813,11 +3546,7 @@ MonoBehaviour:
 --- !u!60 &1559883439
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1559883437}
   m_Enabled: 1
@@ -5849,21 +3578,13 @@ PolygonCollider2D:
 --- !u!82 &1559883440
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1559883437}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 7551cfb9bdb758b438cdf9822393d487, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: e8d5276844a5ec645b4e6757ce514e1d, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -5883,112 +3604,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &1559883441
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1559883437}
   m_Enabled: 1
@@ -5998,10 +3668,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -6033,7 +3699,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &1559883442
 Transform:
   m_ObjectHideFlags: 0
@@ -6043,18 +3708,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.3713, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &1559883442
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1559883437}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.51056, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 16
@@ -6109,11 +3762,7 @@ Prefab:
     - target: {fileID: 224388020035694346, guid: 362a92f29536500478ea84a1d5c3ab63,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-<<<<<<< HEAD
       value: -428.54
-=======
-      value: -256
->>>>>>> origin/katysbranchyay
       objectReference: {fileID: 0}
     - target: {fileID: 224388020035694346, guid: 362a92f29536500478ea84a1d5c3ab63,
         type: 2}
@@ -6213,7 +3862,6 @@ Prefab:
     - target: {fileID: 224403110192360496, guid: 362a92f29536500478ea84a1d5c3ab63,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-<<<<<<< HEAD
       value: -0.000009470541
       objectReference: {fileID: 0}
     - target: {fileID: 114958663116430160, guid: 362a92f29536500478ea84a1d5c3ab63,
@@ -6235,19 +3883,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-      value: -0.000009536743
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 362a92f29536500478ea84a1d5c3ab63, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1 &1612058965
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1612058970}
   - component: {fileID: 1612058969}
@@ -6264,11 +3899,7 @@ GameObject:
 --- !u!114 &1612058966
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1612058965}
   m_Enabled: 1
@@ -6279,11 +3910,7 @@ MonoBehaviour:
 --- !u!60 &1612058967
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1612058965}
   m_Enabled: 1
@@ -6316,21 +3943,13 @@ PolygonCollider2D:
 --- !u!82 &1612058968
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1612058965}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 1c4e970750ee6204fa063e0f596551e4, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 1638320578ebe7a4483fd818ad52dabd, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -6350,112 +3969,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &1612058969
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1612058965}
   m_Enabled: 1
@@ -6465,10 +4033,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -6500,7 +4064,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &1612058970
 Transform:
   m_ObjectHideFlags: 0
@@ -6513,34 +4076,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 19
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &1612058970
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1612058965}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.57766, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 20
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1642505127
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1642505132}
   - component: {fileID: 1642505131}
@@ -6557,11 +4099,7 @@ GameObject:
 --- !u!114 &1642505128
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1642505127}
   m_Enabled: 1
@@ -6572,11 +4110,7 @@ MonoBehaviour:
 --- !u!61 &1642505129
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1642505127}
   m_Enabled: 1
@@ -6601,21 +4135,13 @@ BoxCollider2D:
 --- !u!82 &1642505130
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1642505127}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 86ee654ab67a41640a8c608237035d1f, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 5ba4cfc7e1bbf9b46992ecf87b659103, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -6635,112 +4161,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &1642505131
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1642505127}
   m_Enabled: 1
@@ -6750,10 +4225,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -6785,7 +4256,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &1642505132
 Transform:
   m_ObjectHideFlags: 0
@@ -6798,34 +4268,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 22
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &1642505132
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1642505127}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.71756, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 24
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1656043214
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1656043219}
   - component: {fileID: 1656043218}
@@ -6842,11 +4291,7 @@ GameObject:
 --- !u!114 &1656043215
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1656043214}
   m_Enabled: 1
@@ -6857,11 +4302,7 @@ MonoBehaviour:
 --- !u!60 &1656043216
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1656043214}
   m_Enabled: 1
@@ -6891,21 +4332,13 @@ PolygonCollider2D:
 --- !u!82 &1656043217
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1656043214}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 401f63c1b7f9a0e4a90155b38aed92ef, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 419195199a77c8d4d8403b5a40deb332, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -6925,112 +4358,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &1656043218
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1656043214}
   m_Enabled: 1
@@ -7040,10 +4422,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -7075,7 +4453,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &1656043219
 Transform:
   m_ObjectHideFlags: 0
@@ -7085,92 +4462,16 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.95516, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &1656043219
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1656043214}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &1818373213
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
---- !u!1 &1792359971
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 1628597183019614, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 52258690}
-  - component: {fileID: 1792359973}
-  - component: {fileID: 1792359972}
-  - component: {fileID: 52258691}
-  m_Layer: 5
-  m_Name: CMaj
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1792359972
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114356137498983878, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  m_GameObject: {fileID: 1792359971}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
---- !u!222 &1792359973
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 222942356753092264, guid: 362a92f29536500478ea84a1d5c3ab63,
-    type: 2}
-  m_PrefabInternal: {fileID: 1592739584}
-  m_GameObject: {fileID: 1792359971}
-  m_CullTransparentMesh: 0
---- !u!1 &1818373213
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1818373218}
   - component: {fileID: 1818373217}
@@ -7187,11 +4488,7 @@ GameObject:
 --- !u!114 &1818373214
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1818373213}
   m_Enabled: 1
@@ -7202,11 +4499,7 @@ MonoBehaviour:
 --- !u!61 &1818373215
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1818373213}
   m_Enabled: 1
@@ -7231,21 +4524,13 @@ BoxCollider2D:
 --- !u!82 &1818373216
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1818373213}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: c8a6c77d40749e34b9831333283fdfce, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 3dfae765d4357884a854ff35c1b559ab, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -7265,112 +4550,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &1818373217
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1818373213}
   m_Enabled: 1
@@ -7380,10 +4614,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -7415,7 +4645,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &1818373218
 Transform:
   m_ObjectHideFlags: 0
@@ -7428,34 +4657,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 24
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &1818373218
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1818373213}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.27416, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 26
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1845252341
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1845252346}
   - component: {fileID: 1845252345}
@@ -7472,11 +4680,7 @@ GameObject:
 --- !u!114 &1845252342
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1845252341}
   m_Enabled: 1
@@ -7487,11 +4691,7 @@ MonoBehaviour:
 --- !u!60 &1845252343
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1845252341}
   m_Enabled: 1
@@ -7521,21 +4721,13 @@ PolygonCollider2D:
 --- !u!82 &1845252344
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1845252341}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 071e74cc78f60844fa1d5aaf787d9685, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: bad76ef322b5e834c952f26821dc619a, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -7555,112 +4747,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &1845252345
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1845252341}
   m_Enabled: 1
@@ -7670,10 +4811,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -7705,7 +4842,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &1845252346
 Transform:
   m_ObjectHideFlags: 0
@@ -7718,34 +4854,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 20
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &1845252346
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1845252341}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.1007595, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 22
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1934207721
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1934207722}
   m_Layer: 0
@@ -7758,11 +4873,7 @@ GameObject:
 --- !u!4 &1934207722
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1934207721}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -7770,24 +4881,14 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
   m_RootOrder: 29
-=======
-  m_RootOrder: 30
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1942803927
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 1942803932}
   - component: {fileID: 1942803931}
@@ -7804,11 +4905,7 @@ GameObject:
 --- !u!114 &1942803928
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1942803927}
   m_Enabled: 1
@@ -7819,11 +4916,7 @@ MonoBehaviour:
 --- !u!60 &1942803929
 PolygonCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1942803927}
   m_Enabled: 1
@@ -7853,21 +4946,13 @@ PolygonCollider2D:
 --- !u!82 &1942803930
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1942803927}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: b242ee95b5446914880460c1ea72c31e, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: eed5f29f200cf124896247c43f5e7465, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -7887,112 +4972,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &1942803931
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1942803927}
   m_Enabled: 1
@@ -8002,10 +5036,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -8037,7 +5067,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &1942803932
 Transform:
   m_ObjectHideFlags: 0
@@ -8047,18 +5076,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.227, y: -1.4, z: 0}
   m_LocalScale: {x: 2.3601534, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &1942803932
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1942803927}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.55666, y: -1.4, z: 0}
-  m_LocalScale: {x: 2.517497, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 18
@@ -8066,15 +5083,9 @@ Transform:
 --- !u!1 &2009216290
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 2009216294}
   - component: {fileID: 2009216293}
@@ -8090,11 +5101,7 @@ GameObject:
 --- !u!114 &2009216291
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2009216290}
   m_Enabled: 1
@@ -8110,11 +5117,7 @@ MonoBehaviour:
 --- !u!114 &2009216292
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2009216290}
   m_Enabled: 1
@@ -8135,11 +5138,7 @@ MonoBehaviour:
 --- !u!223 &2009216293
 Canvas:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2009216290}
   m_Enabled: 1
@@ -8159,11 +5158,7 @@ Canvas:
 --- !u!224 &2009216294
 RectTransform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2009216290}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -8174,10 +5169,7 @@ RectTransform:
   - {fileID: 74430909}
   - {fileID: 589699413}
   - {fileID: 1263683046}
-<<<<<<< HEAD
   - {fileID: 1488730562}
-=======
->>>>>>> origin/katysbranchyay
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8236,11 +5228,7 @@ Prefab:
     - target: {fileID: 224121603199156962, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-<<<<<<< HEAD
       value: 313.51
-=======
-      value: 256
->>>>>>> origin/katysbranchyay
       objectReference: {fileID: 0}
     - target: {fileID: 224121603199156962, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
         type: 2}
@@ -8322,7 +5310,6 @@ Prefab:
       propertyPath: m_FontData.m_VerticalOverflow
       value: 1
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 114538495628804808, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
         type: 2}
       propertyPath: m_Text
@@ -8342,22 +5329,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-    - target: {fileID: 224378590906677436, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
-        type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: -0.000009536743
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c8cf69a0d7b435a42b1c071d86c8ab20, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1 &2056882488
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 2056882493}
   - component: {fileID: 2056882492}
@@ -8374,21 +5345,13 @@ GameObject:
 --- !u!82 &2056882489
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2056882488}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: e7d3d3d6c1399cb4a9d9be05f47f6060, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 2d8d82d95232d0c4ba59bf455a36ef08, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -8408,112 +5371,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &2056882490
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2056882488}
   m_Enabled: 1
@@ -8524,11 +5436,7 @@ MonoBehaviour:
 --- !u!61 &2056882491
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2056882488}
   m_Enabled: 1
@@ -8553,11 +5461,7 @@ BoxCollider2D:
 --- !u!212 &2056882492
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2056882488}
   m_Enabled: 1
@@ -8567,10 +5471,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -8602,7 +5502,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &2056882493
 Transform:
   m_ObjectHideFlags: 0
@@ -8612,18 +5511,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.1335, y: -1.4, z: 0}
   m_LocalScale: {x: 1.770115, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &2056882493
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2056882488}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.2279401, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 12
@@ -8678,11 +5565,7 @@ Prefab:
     - target: {fileID: 224791353765712810, guid: 8ddc4cced8333f34fb6848fe13224450,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-<<<<<<< HEAD
       value: -57.515
-=======
-      value: 0
->>>>>>> origin/katysbranchyay
       objectReference: {fileID: 0}
     - target: {fileID: 224791353765712810, guid: 8ddc4cced8333f34fb6848fe13224450,
         type: 2}
@@ -8764,7 +5647,6 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 0.1
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 114221977800149544, guid: 8ddc4cced8333f34fb6848fe13224450,
         type: 2}
       propertyPath: m_Text
@@ -8784,22 +5666,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-    - target: {fileID: 224756225578178852, guid: 8ddc4cced8333f34fb6848fe13224450,
-        type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: -0.000009536743
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 8ddc4cced8333f34fb6848fe13224450, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1 &2071582507
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 2071582512}
   - component: {fileID: 2071582511}
@@ -8816,21 +5682,13 @@ GameObject:
 --- !u!82 &2071582508
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2071582507}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 43f970f09fba5384a86aef6b027a36a9, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 0522c1fecdb86ce438109faf5167b3e2, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -8850,112 +5708,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!114 &2071582509
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2071582507}
   m_Enabled: 1
@@ -8966,11 +5773,7 @@ MonoBehaviour:
 --- !u!61 &2071582510
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2071582507}
   m_Enabled: 1
@@ -8995,11 +5798,7 @@ BoxCollider2D:
 --- !u!212 &2071582511
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2071582507}
   m_Enabled: 1
@@ -9009,10 +5808,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -9044,7 +5839,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &2071582512
 Transform:
   m_ObjectHideFlags: 0
@@ -9054,18 +5848,6 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.5613, y: -1.4, z: 0}
   m_LocalScale: {x: 1.770115, y: 2, z: 1}
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &2071582512
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2071582507}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.7509398, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
->>>>>>> origin/katysbranchyay
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 11
@@ -9073,15 +5855,9 @@ Transform:
 --- !u!1 &2084063581
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   serializedVersion: 5
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 6
->>>>>>> origin/katysbranchyay
   m_Component:
   - component: {fileID: 2084063586}
   - component: {fileID: 2084063585}
@@ -9098,11 +5874,7 @@ GameObject:
 --- !u!114 &2084063582
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2084063581}
   m_Enabled: 1
@@ -9113,11 +5885,7 @@ MonoBehaviour:
 --- !u!61 &2084063583
 BoxCollider2D:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2084063581}
   m_Enabled: 1
@@ -9142,21 +5910,13 @@ BoxCollider2D:
 --- !u!82 &2084063584
 AudioSource:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2084063581}
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-<<<<<<< HEAD
   m_audioClip: {fileID: 8300000, guid: 1834bfc2fd43505468aeb3d65ca7b6c0, type: 3}
-=======
-  m_audioClip: {fileID: 8300000, guid: 2d8d82d95232d0c4ba59bf455a36ef08, type: 3}
->>>>>>> origin/katysbranchyay
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -9176,112 +5936,61 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 1
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 0
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-<<<<<<< HEAD
     - serializedVersion: 2
-=======
-    - serializedVersion: 3
->>>>>>> origin/katysbranchyay
       time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-<<<<<<< HEAD
-=======
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
->>>>>>> origin/katysbranchyay
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
 --- !u!212 &2084063585
 SpriteRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
   m_PrefabParentObject: {fileID: 0}
-=======
-  m_CorrespondingSourceObject: {fileID: 0}
->>>>>>> origin/katysbranchyay
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2084063581}
   m_Enabled: 1
@@ -9291,10 +6000,6 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-<<<<<<< HEAD
-=======
-  m_RenderingLayerMask: 4294967295
->>>>>>> origin/katysbranchyay
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_StaticBatchInfo:
@@ -9326,7 +6031,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-<<<<<<< HEAD
 --- !u!4 &2084063586
 Transform:
   m_ObjectHideFlags: 0
@@ -9339,19 +6043,4 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 26
-=======
-  m_SpriteSortPoint: 0
---- !u!4 &2084063586
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2084063581}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.307759, y: -1.4, z: 0}
-  m_LocalScale: {x: 1.8881228, y: 2, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 19
->>>>>>> origin/katysbranchyay
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
