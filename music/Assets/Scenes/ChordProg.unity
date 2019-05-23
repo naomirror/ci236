@@ -3779,6 +3779,13 @@ PrefabInstance:
       propertyPath: m_FontData.m_VerticalOverflow
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114381629893818026, guid: 146e438215f735244a2b26f82b1b146f,
+        type: 3}
+      propertyPath: m_Text
+      value: 'A Minor
+
+        ACE'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 146e438215f735244a2b26f82b1b146f, type: 3}
 --- !u!1 &931642947
@@ -7048,6 +7055,13 @@ PrefabInstance:
       propertyPath: m_FontData.m_MaxSize
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 114958663116430160, guid: 362a92f29536500478ea84a1d5c3ab63,
+        type: 3}
+      propertyPath: m_Text
+      value: 'C minor
+
+        CEG'
+      objectReference: {fileID: 0}
     - target: {fileID: 224403110192360496, guid: 362a92f29536500478ea84a1d5c3ab63,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -8921,6 +8935,13 @@ PrefabInstance:
       propertyPath: m_FontData.m_VerticalOverflow
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114538495628804808, guid: c8cf69a0d7b435a42b1c071d86c8ab20,
+        type: 3}
+      propertyPath: m_Text
+      value: 'G Major
+
+        GBD'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8cf69a0d7b435a42b1c071d86c8ab20, type: 3}
 --- !u!1001 &2063251994
@@ -9044,6 +9065,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FontData.m_HorizontalOverflow
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114221977800149544, guid: 8ddc4cced8333f34fb6848fe13224450,
+        type: 3}
+      propertyPath: m_Text
+      value: 'F Major
+
+        FAC'
       objectReference: {fileID: 0}
     - target: {fileID: 224756225578178852, guid: 8ddc4cced8333f34fb6848fe13224450,
         type: 3}

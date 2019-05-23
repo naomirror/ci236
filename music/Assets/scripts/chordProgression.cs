@@ -62,7 +62,7 @@ public class chordProgression : MonoBehaviour {
 			t = 0;
 			transform.position = startPos.position;
 		}
-		if (c1 == false && (int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (cBounds [2]).x) {
+		if (c1 == false && (int)transform.position.x >= (int)(cBounds [2]).x) {
 			c1 = true;
 			Debug.Log("working");
 			if (th.GetComponent<notes> ().cmajDone) {
@@ -73,15 +73,15 @@ public class chordProgression : MonoBehaviour {
 			accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
 		}
 		//changing from int to float with intent to test later
-		if (((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (cBounds [0]).x &&
-		    (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (cBounds [1]).x)) {
+		if (((int)transform.position.x >= (int)(cBounds [0]).x &&
+		    (int)transform.position.x <= (int)(cBounds [1]).x)) {
 			th.GetComponent<notes> ().lastChord = "CMaj";
 		}
-			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (gBounds [0]).x &&
-			   (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (gBounds [1]).x) {
+			if ((int)transform.position.x >= (int)(gBounds [0]).x &&
+			   (int)transform.position.x <= (int)(gBounds [1]).x) {
 				th.GetComponent<notes> ().lastChord = "GMaj";
 			}
-			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (gBounds [2]).x && !c2) {
+			if ((int)transform.position.x >= (int)(gBounds [2]).x && !c2) {
 				c2 = true;
 			if (th.GetComponent<notes> ().gmajDone) {
 					level.notesHit += 1;
@@ -90,11 +90,11 @@ public class chordProgression : MonoBehaviour {
 				
 				accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
 			}
-			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (fBounds [0]).x &&
-			   (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (fBounds [1]).x) {
+			if ((int)transform.position.x >= (int)(fBounds [0]).x &&
+			   (int)transform.position.x <= (int)(fBounds [1]).x) {
 				th.GetComponent<notes> ().lastChord = "FMaj";
 			}
-			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (fBounds [2]).x && !c3) {
+			if ((int)transform.position.x >= (int)(fBounds [2]).x && !c3) {
 				c3 = true;
 				if (th.GetComponent<notes> ().fmajDone) {
 					level.notesHit += 1;
@@ -103,11 +103,11 @@ public class chordProgression : MonoBehaviour {
 				
 				accuracyText.text = "Accuracy: " + level.calculatedAccuracy ();
 			}
-			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (aBounds [0]).x &&
-			   (int)transform.position.x <= (int)Camera.main.ScreenToWorldPoint (aBounds [1]).x) {
+			if ((int)transform.position.x >= (int)(aBounds [0]).x &&
+			   (int)transform.position.x <= (int)(aBounds [1]).x) {
 				th.GetComponent<notes> ().lastChord = "AMin";
 			}
-			if ((int)transform.position.x >= (int)Camera.main.ScreenToWorldPoint (aBounds [2]).x && !c4) {
+			if ((int)transform.position.x >= (int)(aBounds [2]).x && !c4) {
 				c4 = true;
 				if (th.GetComponent<notes> ().aminDone) {
 					level.notesHit += 1;
@@ -117,13 +117,13 @@ public class chordProgression : MonoBehaviour {
 			}
 			//redundant I think 
 			if (sound) {
-				if ((int)transform.position.x == (int)Camera.main.ScreenToWorldPoint (Cmaj.GetComponent<RectTransform> ().position).x) {
+				if ((int)transform.position.x == (int)(Cmaj.GetComponent<RectTransform> ().position).x) {
 					Cmaj.onClick.Invoke ();
-				} else if ((int)transform.position.x == (int)Camera.main.ScreenToWorldPoint (Gmaj.GetComponent<RectTransform> ().position).x) {
+				} else if ((int)transform.position.x == (int)(Gmaj.GetComponent<RectTransform> ().position).x) {
 					Gmaj.onClick.Invoke ();
-				} else if ((int)transform.position.x == (int)Camera.main.ScreenToWorldPoint (Fmaj.GetComponent<RectTransform> ().position).x) {
+				} else if ((int)transform.position.x == (int)(Fmaj.GetComponent<RectTransform> ().position).x) {
 					Fmaj.onClick.Invoke ();
-				} else if ((int)transform.position.x == (int)Camera.main.ScreenToWorldPoint (AMin.GetComponent<RectTransform> ().position).x) {
+				} else if ((int)transform.position.x == (int)(AMin.GetComponent<RectTransform> ().position).x) {
 					AMin.onClick.Invoke ();
 				}
 			}
