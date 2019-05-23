@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\OptionsMenu.cs" />
+    <Compile Include="Assets\scripts\accuracy.cs" />
     <Compile Include="Assets\scripts\chordProgression.cs" />
     <Compile Include="Assets\scripts\followPath.cs" />
     <Compile Include="Assets\scripts\notes.cs" />
