@@ -53,12 +53,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\MainMenu.cs" />
-     <Compile Include="Assets\OptionsMenu.cs" />
      <Compile Include="Assets\scripts\accuracy.cs" />
+     <Compile Include="Assets\scripts\AudioManager.cs" />
      <Compile Include="Assets\scripts\chordProgression.cs" />
      <Compile Include="Assets\scripts\followPath.cs" />
+     <Compile Include="Assets\scripts\LevelChanger.cs" />
+     <Compile Include="Assets\scripts\MainMenu.cs" />
      <Compile Include="Assets\scripts\notes.cs" />
+     <Compile Include="Assets\scripts\OptionsMenu.cs" />
+     <Compile Include="Assets\scripts\PauseMenu.cs" />
      <Compile Include="Assets\scripts\soundOnClick.cs" />
      <Compile Include="Assets\scripts\soundOnMultiTouch.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />

@@ -5,13 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: 241c76ff62417a540875971684dca844
+  - enabled: 1
+    path: Assets/Scenes/Menu 1.unity
+    guid: c66b9621247d69643a48b0d2b0044a16
+  - enabled: 1
+    path: Assets/Scenes/FirstRoom.unity
+    guid: 08bda7fbf8a97f24bac1c423d060ce27
+  - enabled: 1
+    path: Assets/Scenes/piano intro.unity
+    guid: f02f6538523596f43a0ff803ecfccc1e
   - enabled: 1
     path: Assets/Scenes/PIANO.unity
     guid: 4ea18e19dd4778346a8daf2e1e78bed4
   - enabled: 1
+    path: Assets/Scenes/chordProg intro.unity
+    guid: ea127934b052907489945b8bcc4abee5
+  - enabled: 1
     path: Assets/Scenes/ChordProg.unity
     guid: 63247db0f50a5e1488e13a543f58d15d
+  - enabled: 1
+    path: Assets/Scenes/freeplay.unity
+    guid: a6c94db621214bf44b495a5a48a821d9
   m_configObjects: {}

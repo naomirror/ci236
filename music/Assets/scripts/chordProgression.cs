@@ -179,6 +179,9 @@ public class chordProgression : MonoBehaviour {
 			levelTwoAccuracy + "\n" + " Am–F–C–G (pessimistic): " + levelThreeAccuracy + "\n" +
 			" F–C–G–Am: " + levelFourAccuracy + "\n" + " Average: " + averageAccuracy;
 			button.SetActive (true);
+			GameObject.Find ("PauseButton").SetActive (false);
+			GameObject.Find ("ToggleMetronome").SetActive (false);
+			GameObject.Find ("feedback").SetActive (false);
 			break;
 		}
 		setBounds ();
